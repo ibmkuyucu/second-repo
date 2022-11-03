@@ -3,3 +3,4 @@ Yapı Kredi
 Vodafone
 Tempo
 Askapp
+Konuşmatik
